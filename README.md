@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mark-afortadera/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mark-afortadera/azure-network-protocols)
+  - [Configuring and Managing DNS using Virtual Machines in Microsoft Azure](https://github.com/mark-afortadera/Configure-DNS)
 
 <h2>Connect with me:</h2>
 
